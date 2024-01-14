@@ -1,2 +1,2 @@
 # First-Repo
-This is my first Git hub Repository.
+This is my first Git  Repository.
